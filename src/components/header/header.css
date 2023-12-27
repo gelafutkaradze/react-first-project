@@ -1,0 +1,43 @@
+.header-parent{
+    padding-top: 30px;
+    width: 1200px;
+    left: 330px;
+    top: 0;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+.option{
+    display: flex;
+}
+
+
+.option p{
+    display: flex;
+    align-items: center;
+    color:white;
+    font-size: 22px;
+}
+
+
+.netflix p{
+   font-size: 50px;
+   color: red;
+   font-weight: bolder;
+}
+
+
+button{
+    margin-top: 10px;
+    max-height: 35px;
+    margin-left: 20px;
+    padding: 0px 15px 0px 15px;
+    color: white;
+    border: none;
+    background-color: red;
+    border-radius: 3px;
+}

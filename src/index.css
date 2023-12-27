@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+.background{
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100vh;
+  transform: scale(1.8);
+}
+
+
+.background-parent{ 
+  overflow: hidden;
+}
